@@ -1,0 +1,13 @@
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.exe
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.deps.json
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.runtimeconfig.json
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.runtimeconfig.dev.json
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.dll
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\bin\Debug\netcoreapp3.1\Travel Titan.pdb
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.csprojAssemblyReference.cache
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.AssemblyInfoInputs.cache
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.AssemblyInfo.cs
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.csproj.CoreCompileInputs.cache
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.dll
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.pdb
+C:\Users\dylon\Documents\CIT 110\Travel Titan\Travel Titan\obj\Debug\netcoreapp3.1\Travel Titan.genruntimeconfig.cache
